@@ -1,0 +1,39 @@
+.css-row1{
+  margin-bottom:15px;
+}
+.css-row2{
+  margin-bottom:15px;
+}
+.css-row3{
+  margin-bottom:15px;
+}
+.css-row4{
+  margin-bottom:15px;
+}
+body{
+  background-color: black;
+}
+.css-button{
+  font-size:25px;
+  color:white;
+  background-color:#4a4847;
+  border:none;
+  height:60px;
+  width:60px;
+  border-radius:30px;
+  margin-right:5px;
+  cursor:pointer;
+}
+.css-special{
+  background-color:#f59e21;
+}
+.css-clear{
+  font-size: 15px;
+}
+.css-result{
+  color:white;
+  font-size:40px;
+  margin-top:15px;
+  margin-bottom:15px;
+  margin-left:10px;
+}
